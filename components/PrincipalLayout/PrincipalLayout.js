@@ -2,7 +2,7 @@ import { Children } from "react";
 import Menu from '../Menu/Menu';
 const PrincipalLAyout = ({children}) =>(
     <>
-        <Menu />
+        <Menu className="container" />
         {children}
     </>
 )
