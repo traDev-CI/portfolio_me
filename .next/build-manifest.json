@@ -23,6 +23,14 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
+<<<<<<< HEAD
+=======
+    ],
+    "/home": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/home.js"
+>>>>>>> 61ae9668c9aae37b5127b90ed7812604ff5fb098
     ]
   },
   "ampFirstPages": []
